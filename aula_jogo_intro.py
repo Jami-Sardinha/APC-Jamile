@@ -124,3 +124,4 @@ def draw_messages():
 
 pyxel.mouse(True)
 pyxel.run(update, draw)
+ 
